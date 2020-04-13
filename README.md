@@ -14,11 +14,11 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 [Setup Visual Studio Code for Multi-File C++ Projects (Linux)](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
-[Este es de explicación de g++](https://explainshell.com/explain?cmd=g%2B%2B+-std%3Dc%2B%2B17+-ggdb+-Iinclude+src%2FHelloWorld.cpp+src%2Fmain.cpp+-o+bin%2Fmain#)
+[Este es de explicación de g++]
+(https://explainshell.com/explain?cmd=g%2B%2B+-std%3Dc%2B%2B17+-ggdb+-Iinclude+src%2FHelloWorld.cpp+src%2Fmain.cpp+-o+bin%2Fmain#)
 
-[C++ -> Fundamentos de Programación](https://dgvergel.blogspot.com/2019/01/vscode-como-editor-de-c.html)
+[C++ Fundamentos de Programación](https://dgvergel.blogspot.com/2019/01/vscode-como-editor-de-c.html)
 
-Compiling a very basic MinGW Windows Hello World executable in C with a Makefile
-https://bigcode.wordpress.com/2016/12/20/compiling-a-very-basic-mingw-windows-hello-world-executable-in-c-with-a-makefile/
+[Compiling a very basic MinGW Windows Hello World executable in C with a Makefile](https://bigcode.wordpress.com/2016/12/20/compiling-a-very-basic-mingw-windows-hello-world-executable-in-c-with-a-makefile/)
 
-[Run, Debug & get IntelliSense for C C++ in VSCode](https://medium.com/@jerrygoyal/run-debug-intellisense-c-c-in-vscode-within-5-minutes-3ed956e059d6)
+[Run, Debug and get IntelliSense for C C++ in VSCode](https://medium.com/@jerrygoyal/run-debug-intellisense-c-c-in-vscode-within-5-minutes-3ed956e059d6)
