@@ -14,8 +14,7 @@ https://code.visualstudio.com/docs/cpp/config-mingw
 
 [Setup Visual Studio Code for Multi-File C++ Projects (Linux)](https://dev.to/talhabalaj/setup-visual-studio-code-for-multi-file-c-projects-1jpi)
 
-[Este es de explicación de g++]
-(https://explainshell.com/explain?cmd=g%2B%2B+-std%3Dc%2B%2B17+-ggdb+-Iinclude+src%2FHelloWorld.cpp+src%2Fmain.cpp+-o+bin%2Fmain#)
+[Este es de explicación de g++](https://explainshell.com/explain?cmd=g%2B%2B+-std%3Dc%2B%2B17+-ggdb+-Iinclude+src%2FHelloWorld.cpp+src%2Fmain.cpp+-o+bin%2Fmain#)
 
 [C++ Fundamentos de Programación](https://dgvergel.blogspot.com/2019/01/vscode-como-editor-de-c.html)
 
