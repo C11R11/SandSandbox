@@ -1,5 +1,7 @@
 # SandSandbox
-Bunch of c plus plus code
+This is a basic template to make C plus plus projects. 
+
+<b>The code here is for windows::mingw32-make platform</b>
 
 # Environment installation Windows
 https://code.visualstudio.com/docs/cpp/config-mingw
